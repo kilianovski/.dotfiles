@@ -1,0 +1,8 @@
+[user]
+	name = Mikhail Kilianovski
+	email = kilianovski@gmail.com
+
+[alias]
+    br = branch
+    ci = commit
+    co = checkout
