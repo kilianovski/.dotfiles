@@ -8,3 +8,6 @@
     co = checkout
 [hub]
 	protocol = https
+    
+[credential]
+	helper = cache
