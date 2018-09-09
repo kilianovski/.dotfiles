@@ -6,3 +6,5 @@
     br = branch
     ci = commit
     co = checkout
+[hub]
+	protocol = https
