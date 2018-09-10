@@ -1,0 +1,12 @@
+eamodio.gitlens
+eamodio.toggle-excluded-files
+mikestead.dotenv
+ms-vscode.csharp
+streetsidesoftware.code-spell-checker
+Tyriar.sort-lines
+christian-kohler.path-intellisense
+esbenp.prettier-vscode
+dbaeumer.vscode-eslint
+firsttris.vscode-jest-runner
+Ionide.Ionide-fsharp
+robertohuertasm.vscode-icons
