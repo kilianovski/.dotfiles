@@ -1,4 +1,4 @@
-#!/usr/bin/bash
+#!/bin/bash
 filename="extensions.txt"
 # for line in $filename; do
 #     echo "$line"
