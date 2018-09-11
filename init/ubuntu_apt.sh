@@ -80,6 +80,7 @@ function setdiff() {
 apt_packages+=(
   curl
   git
+  openvpn
   gnome-tweak-tool
   apt-transport-https
 )
