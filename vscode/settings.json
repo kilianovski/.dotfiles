@@ -1,0 +1,15 @@
+{
+    "editor.formatOnSave": true,
+    "window.zoomLevel": 0,
+    "cSpell.userWords": [
+        "Barcode",
+        "unsynced"
+    ],
+    "editor.renderWhitespace": "boundary",
+    "window.titleBarStyle": "custom",
+    "gitlens.advanced.messages": {
+        "suppressShowKeyBindingsNotice": true
+    },
+    "terminal.integrated.shell.windows": "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe",
+    "workbench.iconTheme": "vscode-icons"
+}
