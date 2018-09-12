@@ -1,5 +1,6 @@
 eamodio.gitlens
 eamodio.toggle-excluded-files
+DavidAnson.vscode-markdownlint
 mikestead.dotenv
 ms-vscode.csharp
 streetsidesoftware.code-spell-checker
