@@ -20,6 +20,7 @@ apt_packages+=(
   openvpn
   gnome-tweak-tool
   apt-transport-https
+  calibre
 )
 
 # hub - github wrapper
