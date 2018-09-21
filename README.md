@@ -1,2 +1,3 @@
-# .dotfiles
+# dotfiles
+
 @kilianovski does dotfiles
