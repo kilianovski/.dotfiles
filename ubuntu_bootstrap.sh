@@ -1,3 +1,4 @@
+#!/usr/bin/env bash
 sudo apt install git
 git clone --recurse-submodules https://github.com/kilianovski/dotfiles ~/dotfiles
 cd ~/dotfiles
