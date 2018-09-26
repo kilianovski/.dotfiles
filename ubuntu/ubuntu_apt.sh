@@ -19,6 +19,8 @@ apt_packages+=(
   git
   openvpn
   gnome-tweak-tool
+  nodejs
+  npm
   apt-transport-https
   calibre
 )
