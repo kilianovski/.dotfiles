@@ -1,6 +1,6 @@
 {
   "editor.formatOnSave": true,
-  "window.zoomLevel": 0,
+"window.zoomLevel": 0,
   "cSpell.userWords": ["Barcode", "Vectorized", "algo", "unsynced"],
   "editor.renderWhitespace": "boundary",
   "window.titleBarStyle": "custom",

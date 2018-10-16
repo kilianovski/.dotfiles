@@ -23,6 +23,10 @@ apt_packages+=(
   npm
   apt-transport-https
   calibre
+
+  python-pydot
+  python-pydot-ng
+  graphviz
 )
 
 # hub - github wrapper
