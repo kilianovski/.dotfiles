@@ -1,0 +1,21 @@
+<svg width="580" height="400" xmlns="http://www.w3.org/2000/svg">
+ <!-- Created with Method Draw - http://github.com/duopixel/Method-Draw/ -->
+ <g>
+  <title>background</title>
+  <rect fill="#fff" id="canvas_background" height="402" width="582" y="-1" x="-1"/>
+  <g display="none" overflow="visible" y="0" x="0" height="100%" width="100%" id="canvasGrid">
+   <rect fill="url(#gridpattern)" stroke-width="0" y="0" x="0" height="100%" width="100%"/>
+  </g>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <rect id="svg_3" height="543" width="787" y="-17.5625" x="-7.5" stroke-width="1.5" stroke="#000" fill="#a1c181"/>
+  <rect transform="rotate(-57 -36.000000000000014,133.43749999999997) " id="svg_5" height="210" width="215" y="28.4375" x="-143.5" stroke-width="1.5" stroke="#000" fill="#fcca46"/>
+  <rect transform="rotate(49 68.00000000000003,402.9375) " id="svg_7" height="131" width="373" y="337.4375" x="-118.5" stroke-opacity="null" stroke-width="1.5" stroke="#000" fill="#fcca46"/>
+  <rect transform="rotate(-60 595.5,119.93749999999997) " id="svg_8" height="91" width="58" y="74.4375" x="566.5" stroke-opacity="null" stroke-width="1.5" stroke="#000" fill="#fcca46"/>
+  <rect transform="rotate(-48 274.0000000000003,414.4375000000001) " stroke="#000" id="svg_10" height="264.000005" width="281.000015" y="282.437495" x="133.5" stroke-opacity="null" stroke-width="1.5" fill="#619b8a"/>
+  <rect id="svg_11" height="8" width="170" y="498.4375" x="488.5" stroke-opacity="null" stroke-width="1.5" stroke="#000" fill="#619b8a"/>
+  <rect transform="rotate(-18 583.5,200.93750000000006) " id="svg_12" height="209" width="246" y="96.4375" x="460.5" stroke-opacity="null" stroke-width="1.5" stroke="#000" fill="#619b8a"/>
+  <rect transform="rotate(30 19.99999999999999,-8.0625) " id="svg_13" height="155" width="87" y="-85.5625" x="-23.5" stroke-opacity="null" stroke-width="1.5" stroke="#000" fill="#619b8a"/>
+ </g>
+</svg>
